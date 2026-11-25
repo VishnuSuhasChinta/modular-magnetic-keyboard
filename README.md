@@ -20,3 +20,12 @@ Early prototype. The key module is on its third revision; electronics and the ba
 
 ## Printing
 Open the `.stl` in any slicer.
+
+## Licence
+Copyright Vishnu Suhas Chinta 2026.
+
+This source describes Open Hardware and is licensed under the **CERN-OHL-S v2** (see `LICENSE`). You may use, modify and make it, including commercially, but if you share or sell a modified version you must release its source under the same licence.
+
+Source location: https://github.com/VishnuSuhasChinta/modular-magnetic-keyboard
+
+Provided without any warranty, including merchantability, satisfactory quality and fitness for a particular purpose.

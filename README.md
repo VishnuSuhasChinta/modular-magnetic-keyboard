@@ -13,11 +13,10 @@ Early prototype. The key module is on its third revision; electronics and the ba
 |---|---|
 | `cad/modularKeys-V3-bigMag.stl` | **Current.** V3 key module with one larger magnet |
 | `cad/modularKeys-V2-duomag-shorterbase-lighterswitch.stl` | V2 key module: two magnets, shorter base, lighter switch |
-| `print-files/modularKeys-V2-duomag.gx` | Sliced V2 print for the Flashforge Adventurer 3 (FlashPrint `.gx`) |
 
 ## Revision history
 - **V2 (duomag):** two magnets per key; later trimmed to a shorter base and a lighter switch.
 - **V3 (bigMag):** a single larger magnet for a firmer snap.
 
 ## Printing
-Open the `.stl` in any slicer. The `.gx` file is ready to print only on Flashforge printers that use FlashPrint.
+Open the `.stl` in any slicer.
